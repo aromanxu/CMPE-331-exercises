@@ -9,4 +9,5 @@ Here is our group members:
 3) Beşir Saoud 116200096 (CMPE)
 4) Khaled Mohmmed Mohammed Elbeltagy 117207071 (EEEN)
 
-Our idea is Rental Power Bank since everyone use smart phone in daily life, so we do want to produce a rental power bank box.
+
+Our project idea is about rental powder bank since there is huge potential demand in the real world. Everyone is using smart phone nowadays, we think it will be such a nice ideal to make a project. Our jobs (CMPE Student) is to do coding  of how power bank box works and our EEEN student will create a machine box to charge it and make a specific powder bank. 
