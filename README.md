@@ -4,8 +4,9 @@ Hello ,This is group named JOKER.
 
 Here is our group members:
 
-1）Cihan Yavuz 117200111
-2) Osama Zidan 116200121
-3) Beşir Saoud 116200096
+1）Cihan Yavuz 117200111 (CMPE)
+2) Osama Zidan 116200121 (CMPE)
+3) Beşir Saoud 116200096 (CMPE)
+4) Khaled Mohmmed Mohammed Elbeltagy 117207071 (EEEN)
 
-since we are lack of EEEN students this files will be updated soon 
+Our idea is Rental Power Bank since everyone use smart phone in daily life, so we do want to produce a rental power bank box.
