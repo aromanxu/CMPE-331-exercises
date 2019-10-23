@@ -16,3 +16,16 @@ Physically, the power bank needs to connect to the Internet which can be in many
 Therefore, the general process is as follows: user scan code and plan to  rent --> the server-side identifies the target charger and port, sends the instruction --> the charger receives the instruction to unlock the mouth  --> start counting the time customer would have rent --> customer return the power bank in the empty mouth --> lock the mouth--> the station box calculates the time  has been assumed  -->  send the bill to customers' phone application. 
 
 The schedule of our project is finishing the proposal project and complete the sketch and requirements before the end of October.
+
+Requested list:
+- Hardware development technology: common transformer charger technology + MCU +wifi module
+
+- Embedded system: PIC microcontroller programming, do not need to use such as Linux, android operating system hardware platform;
+
+- Software system: server socket, can use Java nio framework netty;
+Access to third-party payment; 
+Background management system web system.
+
+Sketch:
+
+UML diagram:
