@@ -30,3 +30,7 @@ Background management system web system.
 Sketch:
 
 UML diagram:
+
+
+
+23.11.2019  User login and registration part done
